@@ -17,4 +17,4 @@ This was made by primarily modifying ```browser.py``` to incorporate the latest 
 ```neo_browser.py``` is a more complete browser.
 This browser supports multiple tabs (create, switch, close) and text searching in a tab.
 This implementation also uses the latest versions of GTK+3 and WebKit2.
-<img src="images/neo_browser.png>"
+<img src="images/neo_browser.png">
